@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Vending Machine
+
+This app was created to practice client-side routing using react-router.  Clicking on the link of the snack at the top of the page takes you to that snack!
+
 ## Available Scripts
 
 In the project directory, you can run:
